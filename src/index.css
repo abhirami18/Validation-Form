@@ -1,0 +1,13 @@
+@media screen and (max-width: 600px) {
+    /* Adjust the form layout for screens wider than 600px */
+    .input, .button {
+        width:100%;
+        max-width: 350px;
+    }
+    .wrapper{
+        margin: 70px auto 0;
+    }
+    .searchBar form{
+        width:90%;
+    }
+  }
